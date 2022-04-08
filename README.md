@@ -12,7 +12,6 @@ telebot
 ├── 📁 template_text
 ├── </> app.py
 ├── </> bot_local.py
-├── 📝 Notebook Guide.ipynb
 ├── 🚀 Procfile
 ├── 📝 requirements.txt
 └── 📝 runtime.txt
